@@ -5,6 +5,96 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 
 
+## [v6.1.3] - 2024-09-17
+- add some missing universities (#89)
+- add Egyptian Chinese University to Egypt list
+- add Ashur University to Iraq list
+- add Egypt University of Informatics to Egypt list
+
+## [v6.1.2] - 2024-05-14
+- fix some universities names (#88)
+- fix Ogun State file name (#87)
+
+## [v6.1.1] - 2023-07-03
+- add Indian Institute Of Technology Jammu to India list (#86)
+
+## [v6.1.0] - 2023-05-02
+- Add support for Laravel v11, and drop support for Laravel v9
+- Update phpunit to v10.1 from v9.5
+
+## [v6.0.0] - 2023-01-09
+- Drop PHP v8.0 support and update composer dependencies
+
+## [v5.0.7] - 2022-08-07
+- Update Prince Mohammad Bin Fahd University contacts (#78)
+- fix gumushane-university file name (#77)
+
+## [v5.0.6] - 2022-07-02
+- Update Antonine University information #76
+
+## [v5.0.5] - 2022-06-20
+- add Aksum University to Ethiopia list (#74)
+- add Microlink Information Technology College to Ethiopia (#75)
+
+## [v5.0.4] - 2022-05-15
+- fix Specialized Institute of Applied Technology file name (#73)
+- add Bangabandhu Sheikh Mujibur Rahman Digital University to Bangladesh (#72)
+- add Ogun State Institute of Technology to Nigeria (#71)
+- add Faridpur Engineering College to Bangladesh (#70)
+- add universities to Rwanda (#69)
+- fix new york university abu dhabi file name (#68)
+- Add University of Brahmanbaria to Bangladesh list (#66)
+ 
+## [v5.0.3] - 2022-01-29
+- fix coperative university of kenya file name (#65)
+
+## [v5.0.2] - 2021-12-08
+- fix Ruaha Catholic University file name (#63)
+- add universities in Egypt (#62)
+  - add german international university to egypt list
+  - add Egypt japan university of science and technology to Egypt list
+
+## [v5.0.1] - 2021-10-05
+- add missing universities (#61)
+  - add university of global village in Bangladesh
+  - add polytechnics mauritius
+  - add university of bahri in sudan
+  - add chittagong medical college to Bangladesh list
+
+## [v5.0.0] - 2021-08-22
+- Drop PHP v7 support, and upgrade rinvex package dependencies to next major version
+
+## [v4.0.13] - 2021-08-18
+- fix The Polytechnic, Ibadan worng website link (#60)
+- fix some universities website link (#59)
+- add Metropolitan International University in Uganda (#57)
+- add Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University in Bangladesh (#58)
+- add Sri Satya Sai University of Technology and Medical Sciences in India (#56)
+
+## [v4.0.12] - 2021-08-06
+- fix some universities website link (#55) (b97eb040)
+- Update composer dependencies (c6e7443a)
+- Add three missing Brazilian universities (9c64e574)
+
+## [v4.0.11] - 2021-05-07
+- add national institute of information technology in Ghana (#52)
+- Upgrade to GitHub-native Dependabot (#53)
+
+## [v4.0.10] - 2021-04-27
+- fix typo in some universities names
+- add the cooperative university of kenya to kenya list (#50)
+- add joseph ayo babalola university in Nigeria (#49)
+- add middlesex university in Mauritius (#48)
+
+## [v4.0.9] - 2021-03-15
+- add D.S. ADEGBENRO ICT POLYTECHNIC in Nigeria (#47)
+- add University of Energy and Natural Resources in Ghana (#46)
+
+## [v4.0.8] - 2021-02-16
+- fix Kuwait College for Science and Technology file name (#44)
+- fix Tallinn University of Applied Sciences file name (#43)
+- add Tartous university in Syria (#45)
+
 ## [v4.0.7] - 2021-01-15
 - add tallinn university of applied sciences in Estonia (#42)
 - Enable StyleCI risky mode
@@ -117,6 +207,25 @@ This project adheres to [Semantic Versioning](CONTRIBUTING.md).
 ## v1.0.0 - 2017-01-07
 - Tag first release
 
+[v6.1.3]: https://github.com/rinvex/universities/compare/v6.1.2...v6.1.3
+[v6.1.2]: https://github.com/rinvex/universities/compare/v6.1.1...v6.1.2
+[v6.1.1]: https://github.com/rinvex/universities/compare/v6.1.0...v6.1.1
+[v6.1.0]: https://github.com/rinvex/universities/compare/v6.0.0...v6.1.0
+[v6.0.0]: https://github.com/rinvex/universities/compare/v5.0.7...v6.0.0
+[v5.0.7]: https://github.com/rinvex/universities/compare/v5.0.6...v5.0.7
+[v5.0.6]: https://github.com/rinvex/universities/compare/v5.0.5...v5.0.6
+[v5.0.5]: https://github.com/rinvex/universities/compare/v5.0.4...v5.0.5
+[v5.0.4]: https://github.com/rinvex/universities/compare/v5.0.3...v5.0.4
+[v5.0.3]: https://github.com/rinvex/universities/compare/v5.0.2...v5.0.3
+[v5.0.2]: https://github.com/rinvex/universities/compare/v5.0.1...v5.0.2
+[v5.0.1]: https://github.com/rinvex/universities/compare/v5.0.0...v5.0.1
+[v5.0.0]: https://github.com/rinvex/universities/compare/v4.0.13...v5.0.0
+[v4.0.13]: https://github.com/rinvex/universities/compare/v4.0.12...v4.0.13
+[v4.0.12]: https://github.com/rinvex/universities/compare/v4.0.11...v4.0.12
+[v4.0.11]: https://github.com/rinvex/universities/compare/v4.0.10...v4.0.11
+[v4.0.10]: https://github.com/rinvex/universities/compare/v4.0.9...v4.0.10
+[v4.0.9]: https://github.com/rinvex/universities/compare/v4.0.8...v4.0.9
+[v4.0.8]: https://github.com/rinvex/universities/compare/v4.0.7...v4.0.8
 [v4.0.7]: https://github.com/rinvex/universities/compare/v4.0.6...v4.0.7
 [v4.0.6]: https://github.com/rinvex/universities/compare/v4.0.5...v4.0.6
 [v4.0.5]: https://github.com/rinvex/universities/compare/v4.0.4...v4.0.5
